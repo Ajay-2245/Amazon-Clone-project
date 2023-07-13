@@ -108,3 +108,37 @@ span{
     font-size: 0.7rem;
     font-weight: 700;
 }
+
+/* panel */
+
+.panel{
+    background-color: rgb(106, 105, 105);
+    font-weight: 400;
+    color: white;
+    height : 50px;
+    display: flex;
+    align-items: center;
+}
+
+.drop-down{
+    margin-left: 20px;
+    font-size: 0.98rem;
+    border: none;
+    height:30px;
+    width: 40px;
+
+}
+
+.panel-box1 p{
+    display: inline;
+    margin-left: 5px;
+}
+.panel-box1{
+    width: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.panel-box2{
+    
+}
